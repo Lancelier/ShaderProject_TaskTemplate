@@ -1,4 +1,4 @@
-# ShaderProject_TaskTemplate
+# Unity Shaders Project Task
 
 Bonjour, mis amis!
 The Unity Shaders project offered in Winter by the Game Development Club will provide you with knowledge on how to create your own shaders and materials using the Unity Shader Graph. We will also take a look at Post Processing and Lighting.
